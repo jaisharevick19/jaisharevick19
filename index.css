@@ -1,0 +1,76 @@
+.topic
+{
+    background-color: #162847;
+    color: whitesmoke;
+    width: 100%;
+    height: 70px;
+    font-size: 50px;
+    text-align: left;
+}
+
+  .main
+  {
+      text-align: center;
+      font-size: medium;
+       
+  }
+  img{
+    padding-top: 10px;
+    max-width: 700px; 
+    max-height: 500px;
+  }
+  body{
+    background-color: rgba(80, 177, 233, 0.986);
+    background-image: url("images/viktor-forgacs-gEu8u_cvi4A-unsplash.jpg");
+  }
+  .content{
+    color: #162847;
+  }
+  a{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #4f3e8e;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 7px rgb(66, 68, 70);
+  }
+  
+  a:hover {background-color:#a0c0f8}
+  
+  a:active {
+    background-color: #4f3e8e;
+    box-shadow: 0 5px rgb(149, 221, 243);
+    transform: translateY(4px);
+  }
+  button{
+    padding: 15px 25px;
+    font-size: 19px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #4f3e8e;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 15px;
+    box-shadow:  0 7px rgb(66, 68, 70);
+
+  }
+  button:hover {background-color:#a0c0f8}
+  
+  button:active {
+    background-color: #4f3e8e;
+    box-shadow: 0 5px rgb(149, 221, 243);
+    transform: translateY(4px);
+  }
+  a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: #4f3e8e;
+}
