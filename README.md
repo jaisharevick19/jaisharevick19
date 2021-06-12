@@ -4,7 +4,7 @@ A web application used to tranfer virtual money between multiple users and also 
 
 Technologies Used: 1)HTML 2)CSS 3)Javascript
 
-IDE Used:Sublime text 3
+IDE Used: Visual Studio Code
 
 Start with a dummy data for upto 10 customers.
 Customers table with basic fields such as name, email, current balance etc.
